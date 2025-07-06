@@ -64,13 +64,12 @@ The fusion approach demonstrated significant performance improvements, highlight
 
 - `APA_ASSIG1_FINAL.ipynb` — Jupyter notebook with full implementation  
 - `APA_Assign1_Goncalo_Bastos_Leonardo_Cordeiro.pdf` — technical report  
-- `models/` — optional folder with trained model weights (`.pt` files)  
 - `results/` — figures such as confusion matrices and training curves  
 
 ---
 
 ## 👨‍💻 Authors
 
-- Gonçalo Bastos – 2020238997  
-- Leonardo Cordeiro – 2020228071  
+- Gonçalo Bastos – eusoudebastos@gmail.com  
+- Leonardo Cordeiro – leoleocordeiro@gmail.com  
 University of Coimbra – Electrical and Computer Engineering
