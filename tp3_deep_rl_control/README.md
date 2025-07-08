@@ -2,6 +2,9 @@
 
 This project explores the use of **Deep Reinforcement Learning (DeepRL)** to control agents in simulated environments, focusing on state representations based on images and pose vectors.
 
+![Best_Video-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c1ceda99-a0b8-453e-8894-376ba89163a2)
+
+
 ## 🧩 Part I — OpenAI CarRacing-v2
 
 A custom CNN was implemented and integrated with:
