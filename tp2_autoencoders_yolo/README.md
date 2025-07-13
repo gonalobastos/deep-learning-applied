@@ -5,7 +5,7 @@ This project is divided into two main parts:
 2. **Object detection using YOLOv5, comparing training from scratch vs. transfer learning**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/30530637-a69b-4e93-af3c-a9e9990a44d5" alt="results for DAE" width="80%">
+  <img src="https://github.com/user-attachments/assets/30530637-a69b-4e93-af3c-a9e9990a44d5" alt="results for DAE" width="50%">
 </p>
 
 <p align="center">
@@ -19,8 +19,6 @@ This project is divided into two main parts:
 <p align="center">
   <em>Figure: Detection results with pre-trained weights</em>
 </p>
-
-
 
 ---
 
