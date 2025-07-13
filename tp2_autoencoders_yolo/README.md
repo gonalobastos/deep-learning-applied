@@ -4,6 +4,24 @@ This project is divided into two main parts:
 1. **Image reconstruction and noise removal using Autoencoders**
 2. **Object detection using YOLOv5, comparing training from scratch vs. transfer learning**
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30530637-a69b-4e93-af3c-a9e9990a44d5" alt="results for DAE" width="80%">
+</p>
+
+<p align="center">
+  <em>Figure: Results for DAE</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8a2d6e89-3070-40f5-9945-2170b391a0e0" alt="detection results with pretrained weights" width="80%">
+</p>
+
+<p align="center">
+  <em>Figure: Detection results with pre-trained weights</em>
+</p>
+
+
+
 ---
 
 ## 🧩 Part I — Autoencoders on FashionMNIST
