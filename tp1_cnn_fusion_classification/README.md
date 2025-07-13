@@ -2,7 +2,16 @@
 
 This project explores the implementation and optimization of Convolutional Neural Networks (CNNs) for image classification tasks using the CIFAR-10 and EuroSAT datasets. It is divided into two main parts: the design of a custom CNN from scratch and the use of transfer learning with a middle fusion strategy.
 
-<img width="791" height="1760" alt="image" src="https://github.com/user-attachments/assets/aa2819d5-6613-46b7-abfb-1ec4fd17fd35" /><img width="820" height="1760" alt="image" src="https://github.com/user-attachments/assets/c2faa1ef-7454-4952-b0bf-12cfcc215c49" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aa2819d5-6613-46b7-abfb-1ec4fd17fd35" alt="Figure 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/c2faa1ef-7454-4952-b0bf-12cfcc215c49" alt="Figure 10" width="45%">
+</p>
+
+<p align="center">
+  <em>Figure 1: Random samples from each class in the CIFAR-10 dataset.</em><br>
+  <em>Figure 10: Example images from the EuroSAT dataset.</em>
+</p>
+
 
 
 ---
